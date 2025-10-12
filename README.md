@@ -30,5 +30,5 @@ I love building cool projects and learning new technologies.
 ---
 
 💻 **Tech Stack**
-**Languages:** Python · JavaScript · Java · SQL · C · C# · · HTML · CSS  
+**Languages:** Python · JavaScript · Java · SQL · C · C# · HTML · CSS  
 **Frameworks / Tools:** React · Node.js · Express · PostgreSQL · Docker · AWS · Git · Next.js
