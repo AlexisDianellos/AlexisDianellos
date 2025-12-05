@@ -8,7 +8,7 @@ I love building cool projects and learning new technologies.
 ---
 
 🚀 **What I'm Up To**
-- 🤖 AI Research Thesis
+- 🤖 DeepRL & SafeRL Thesis
 - 💻 Building Building React Spring Boot applications with PostgreSQL, AWS Integration, Embedding Recommendation Systems
 - 🧠 Learning Cloud Computing - AWS SAA Exam in 2 weeks  
 
