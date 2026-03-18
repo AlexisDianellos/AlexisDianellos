@@ -2,7 +2,7 @@
 
 💫 **About Me**  
 I'm a 4th year Computer Science student @University of Piraeus with an Erasmus @University of Stockholm
-Passionate about software engineering, AI and Cloud Engineering.  
+Passionate about Software Engineering, AI and Cloud Engineering.  
 I love building cool projects and learning new technologies.
 
 ---
@@ -10,15 +10,14 @@ I love building cool projects and learning new technologies.
 🚀 **What I'm Up To**
 - 🤖 DeepRL & SafeRL Thesis
 - 💻 Building Building React Spring Boot applications with PostgreSQL, AWS Integration, Embedding Recommendation Systems
-- 🧠 Learning Cloud Computing - AWS SAA Exam in 2 weeks  
+- 🧠 Learning Cloud Computing
 
 ---
 
 💼 **Work Experience**
+- 💻 **Software Developer Intern** (AI Systems) – *Vodafone*  
+
 - 💻 **Software Developer / IT Intern** – *Attica Dps*  
-  - Built and maintained web applications using Next.js  
-  - Built Ticketing Systems w/ IT Director
-  - Optimized SQL Queries
 
 ---
 
